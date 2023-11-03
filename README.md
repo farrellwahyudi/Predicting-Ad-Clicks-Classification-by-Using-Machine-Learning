@@ -1,1 +1,1 @@
-# Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning
+# Predicting-Ad-Clicks-Classification-by-Using-Machine-Learning
